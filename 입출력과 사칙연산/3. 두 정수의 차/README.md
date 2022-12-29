@@ -1,4 +1,4 @@
-# 1000. A+B
+# 1000. A-B
 ```c++
 #include <stdio.h>
 int main(){
