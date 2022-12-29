@@ -1,4 +1,4 @@
-# 1000. A＊B
+# 10998. A＊B
 ```c++
 #include <stdio.h>
 int main(){
